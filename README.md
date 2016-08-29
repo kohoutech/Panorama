@@ -1,2 +1,2 @@
 # Panorama
-a web browser
+a wide angled view of the web
